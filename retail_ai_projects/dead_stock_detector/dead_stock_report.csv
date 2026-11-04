@@ -1,0 +1,61 @@
+sku,product_name,category,stock_qty,unit_cost,last_sale_date,units_sold_recent,days_since_last_sale,avg_daily_sales,days_of_cover,stock_value,status,recommended_action
+SKU1040,Product 41,Electronics,333,136.47,2026-11-03,517.0,0,5.744,58.0,45444.51,Active,No action needed
+SKU1003,Product 4,Grocery,387,115.22,2026-11-03,291.0,0,3.233,119.7,44590.14,Active,No action needed
+SKU1020,Product 21,Home,376,100.32,2026-11-03,435.0,0,4.833,77.8,37720.32,Active,No action needed
+SKU1045,Product 46,Sports,315,108.1,2026-11-03,300.0,0,3.333,94.5,34051.5,Active,No action needed
+SKU1019,Product 20,Grocery,269,118.02,2026-11-03,271.0,0,3.011,89.3,31747.38,Active,No action needed
+SKU1006,Product 7,Electronics,362,84.76,2026-11-03,262.0,0,2.911,124.4,30683.12,Active,No action needed
+SKU1055,Product 56,Electronics,229,128.78,2026-11-03,365.0,0,4.056,56.5,29490.62,Active,No action needed
+SKU1029,Product 30,Grocery,333,76.15,2026-11-03,336.0,0,3.733,89.2,25357.95,Active,No action needed
+SKU1032,Product 33,Electronics,337,68.03,2026-11-02,175.0,1,1.944,173.3,22926.11,Active,No action needed
+SKU1034,Product 35,Sports,359,46.62,2026-11-03,201.0,0,2.233,160.7,16736.58,Active,No action needed
+SKU1004,Product 5,Grocery,167,95.94,2026-11-03,218.0,0,2.422,68.9,16021.98,Active,No action needed
+SKU1042,Product 43,Toys,322,41.35,2026-11-03,178.0,0,1.978,162.8,13314.7,Active,No action needed
+SKU1002,Product 3,Home,149,85.65,2026-11-03,420.0,0,4.667,31.9,12761.85,Active,No action needed
+SKU1005,Product 6,Sports,133,83.93,2026-11-03,517.0,0,5.744,23.2,11162.69,Active,No action needed
+SKU1021,Product 22,Grocery,177,62.15,2026-11-03,315.0,0,3.5,50.6,11000.55,Active,No action needed
+SKU1010,Product 11,Home,319,33.76,2026-11-03,186.0,0,2.067,154.4,10769.44,Active,No action needed
+SKU1052,Product 53,Grocery,224,47.28,2026-11-03,488.0,0,5.422,41.3,10590.72,Active,No action needed
+SKU1051,Product 52,Clothing,313,31.95,2026-11-03,397.0,0,4.411,71.0,10000.35,Active,No action needed
+SKU1017,Product 18,Electronics,94,99.96,2026-11-03,486.0,0,5.4,17.4,9396.24,Active,No action needed
+SKU1027,Product 28,Toys,128,70.36,2026-11-03,393.0,0,4.367,29.3,9006.08,Active,No action needed
+SKU1039,Product 40,Home,60,144.36,2026-11-02,19.0,1,0.211,284.2,8661.6,Active,No action needed
+SKU1015,Product 16,Toys,192,43.64,2026-11-03,447.0,0,4.967,38.7,8378.88,Active,No action needed
+SKU1028,Product 29,Home,308,25.87,2026-11-03,370.0,0,4.111,74.9,7967.96,Active,No action needed
+SKU1050,Product 51,Toys,114,69.45,2026-11-03,250.0,0,2.778,41.0,7917.3,Active,No action needed
+SKU1007,Product 8,Toys,151,46.98,2026-11-03,397.0,0,4.411,34.2,7093.98,Active,No action needed
+SKU1054,Product 55,Grocery,204,28.16,2026-11-03,383.0,0,4.256,47.9,5744.64,Active,No action needed
+SKU1036,Product 37,Sports,99,55.55,2026-11-03,209.0,0,2.322,42.6,5499.45,Active,No action needed
+SKU1059,Product 60,Toys,50,94.84,2026-10-20,14.0,14,0.156,321.4,4742.0,Active,No action needed
+SKU1026,Product 27,Grocery,43,108.91,2026-11-03,533.0,0,5.922,7.3,4683.13,Active,No action needed
+SKU1025,Product 26,Home,281,15.33,2026-11-03,503.0,0,5.589,50.3,4307.73,Active,No action needed
+SKU1048,Product 49,Toys,191,16.27,2026-11-03,449.0,0,4.989,38.3,3107.57,Active,No action needed
+SKU1056,Product 57,Home,19,114.26,2026-11-03,523.0,0,5.811,3.3,2170.94,Active,No action needed
+SKU1013,Product 14,Toys,56,36.62,2026-11-03,378.0,0,4.2,13.3,2050.72,Active,No action needed
+SKU1024,Product 25,Toys,253,5.36,2026-11-03,417.0,0,4.633,54.6,1356.08,Active,No action needed
+SKU1043,Product 44,Grocery,7,145.44,2026-11-03,175.0,0,1.944,3.6,1018.08,Active,No action needed
+SKU1008,Product 9,Clothing,35,6.56,2026-11-03,458.0,0,5.089,6.9,229.6,Active,No action needed
+SKU1049,Product 50,Toys,283,135.59,2026-01-28,0.0,279,0.0,,38371.97,Dead,"Liquidate: deep discount, bundle, or return to supplier"
+SKU1031,Product 32,Clothing,322,105.06,2026-02-19,0.0,257,0.0,,33829.32,Dead,"Liquidate: deep discount, bundle, or return to supplier"
+SKU1046,Product 47,Grocery,313,68.51,2026-06-04,0.0,152,0.0,,21443.63,Dead,"Liquidate: deep discount, bundle, or return to supplier"
+SKU1053,Product 54,Grocery,186,87.72,2026-04-23,0.0,194,0.0,,16315.92,Dead,"Liquidate: deep discount, bundle, or return to supplier"
+SKU1047,Product 48,Sports,267,42.29,2026-02-15,0.0,261,0.0,,11291.43,Dead,"Liquidate: deep discount, bundle, or return to supplier"
+SKU1041,Product 42,Toys,83,105.56,2026-05-14,0.0,173,0.0,,8761.48,Dead,"Liquidate: deep discount, bundle, or return to supplier"
+SKU1022,Product 23,Clothing,68,122.48,2026-02-11,0.0,265,0.0,,8328.64,Dead,"Liquidate: deep discount, bundle, or return to supplier"
+SKU1058,Product 59,Toys,101,65.95,2026-07-09,0.0,117,0.0,,6660.95,Dead,"Liquidate: deep discount, bundle, or return to supplier"
+SKU1057,Product 58,Electronics,60,108.48,2026-01-18,0.0,289,0.0,,6508.8,Dead,"Liquidate: deep discount, bundle, or return to supplier"
+SKU1016,Product 17,Home,135,45.45,2026-04-11,0.0,206,0.0,,6135.75,Dead,"Liquidate: deep discount, bundle, or return to supplier"
+SKU1011,Product 12,Sports,79,62.46,2026-05-14,0.0,173,0.0,,4934.34,Dead,"Liquidate: deep discount, bundle, or return to supplier"
+SKU1030,Product 31,Grocery,176,24.54,2026-05-31,0.0,156,0.0,,4319.04,Dead,"Liquidate: deep discount, bundle, or return to supplier"
+SKU1044,Product 45,Electronics,319,117.26,2026-11-01,10.0,2,0.111,2871.0,37405.94,Slow-Moving,Run promotion and stop reordering
+SKU1000,Product 1,Electronics,369,100.92,2026-10-30,28.0,4,0.311,1186.1,37239.48,Slow-Moving,Run promotion and stop reordering
+SKU1012,Product 13,Toys,187,128.3,2026-10-30,24.0,4,0.267,701.2,23992.1,Slow-Moving,Run promotion and stop reordering
+SKU1001,Product 2,Toys,299,71.72,2026-11-02,24.0,1,0.267,1121.2,21444.28,Slow-Moving,Run promotion and stop reordering
+SKU1018,Product 19,Sports,227,84.44,2026-10-30,13.0,4,0.144,1571.5,19167.88,Slow-Moving,Run promotion and stop reordering
+SKU1009,Product 10,Electronics,190,66.63,2026-11-02,14.0,1,0.156,1221.4,12659.7,Slow-Moving,Run promotion and stop reordering
+SKU1035,Product 36,Electronics,118,95.28,2026-11-03,18.0,0,0.2,590.0,11243.04,Slow-Moving,Run promotion and stop reordering
+SKU1033,Product 34,Home,158,58.39,2026-10-27,15.0,7,0.167,948.0,9225.62,Slow-Moving,Run promotion and stop reordering
+SKU1023,Product 24,Sports,333,26.71,2026-10-31,22.0,3,0.244,1362.3,8894.43,Slow-Moving,Run promotion and stop reordering
+SKU1038,Product 39,Clothing,256,19.46,2026-10-24,14.0,10,0.156,1645.7,4981.76,Slow-Moving,Run promotion and stop reordering
+SKU1037,Product 38,Toys,274,14.97,2026-10-27,16.0,7,0.178,1541.2,4101.78,Slow-Moving,Run promotion and stop reordering
+SKU1014,Product 15,Toys,276,10.63,2026-11-02,22.0,1,0.244,1129.1,2933.88,Slow-Moving,Run promotion and stop reordering
